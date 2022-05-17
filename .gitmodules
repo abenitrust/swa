@@ -25,3 +25,6 @@
 [submodule "swa-cart-command-service"]
 	path = swa-cart-command-service
 	url = https://github.com/abenitrust/swa-cart-command-service
+[submodule "swa-config-service"]
+	path = swa-config-service
+	url = https://github.com/abenitrust/swa-config-service
